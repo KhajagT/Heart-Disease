@@ -7,7 +7,7 @@ import altair as alt
 from PIL import Image
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-from ggplot import *
+#from ggplot import *
 import plotly.figure_factory as ff
 import plotly.express as px
 import plotly.offline as py
